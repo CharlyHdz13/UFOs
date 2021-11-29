@@ -26,4 +26,4 @@ In the previous example there are no data that matches "mx" inside the country c
 ![image](https://user-images.githubusercontent.com/89402038/143896376-f8ba1937-9e23-4500-ae63-cbb0d0fa916a.png)
 
 ## Summary
-
+In conclusion the core functions of the webpage work as intended, nevertheless a few tweaks and improvements can be made to make the response of the website more intuitive. I would look forward into making the filters a dropbox element where it shows all the available filters that can be made to the table and avoid having erroneous data inputs and empty tables. Another recommendation is to look for ways to limit the size of the table so that if there are lots amount of data inside the table the user does not have to scroll up and down the site to see the table and apply filters.
